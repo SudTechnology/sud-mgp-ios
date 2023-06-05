@@ -4,6 +4,7 @@
 ### 1. 手动方式集成：
 #### 下载 [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases)
 #### 下载 [SudMGPWrapper](https://github.com/SudTechnology/SudMGPWrapper)
+#### 手动集成详细步骤请看 [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md)
 ### 2. 通过CocoaPods安装
 
 在工程目录中的`Podfile`文件中键入以下依赖项：
@@ -16,5 +17,5 @@ pod 'SudMGPWrapper', '~> 1.3.3.2'
 pod 'SudMGPWrapper_Lite', '~> 1.3.3.2'
 ```
 
-## 集成Demo 
+## 集成Demo
 ### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md)
