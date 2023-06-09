@@ -1,1 +1,20 @@
-
+## How do I choose which version of the SDK to use? 
+The standard version of the SDK supports all games, while the Lite version of the SDK only supports some games. For a detailed list of supported games, please refer to the [Supported Games List](https://docs.sud.tech/zh-CN/app/Client/StartUp.html). 
+## Installation Methods: 
+### 1. Manual Integration: 
+#### Download [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases) 
+#### Download [SudMGPWrapper](https://github.com/SudTechnology/SudMGPWrapper) 
+###### For detailed steps on manual integration, please refer to the [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md). 
+### 2. Installation via CocoaPods 
+ 
+Enter the following dependencies in the  Podfile  file in the project directory: 
+#### Dependency on the Standard Version of SudMGP SDK
+```ruby
+pod 'SudMGPWrapper', '~> 1.3.3.2'
+```
+#### Dependency on the Lite Version of SudMGP SDK
+```ruby
+pod 'SudMGPWrapper_Lite', '~> 1.3.3.2'
+```
+## Integration Demo 
+### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md)
