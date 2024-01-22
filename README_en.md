@@ -10,11 +10,11 @@ The standard version of the SDK supports all games, while the Lite version of th
 Enter the following dependencies in the  Podfile  file in the project directory: 
 #### Dependency on the Standard Version of SudMGP SDK
 ```ruby
-pod 'SudMGPWrapper', '~> 1.3.5'
+pod 'SudMGPWrapper', '~> 1.3.6.1'
 ```
 #### Dependency on the Lite Version of SudMGP SDK
 ```ruby
-pod 'SudMGPWrapper_Lite', '~> 1.3.5'
+pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
 ```
 ## Integration Demo 
 ### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md)
