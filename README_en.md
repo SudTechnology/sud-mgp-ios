@@ -17,4 +17,4 @@ pod 'SudMGPWrapper', '~> 1.3.6.1'
 pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
 ```
 ## Integration Demo 
-### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md)
+### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README_en.md)
