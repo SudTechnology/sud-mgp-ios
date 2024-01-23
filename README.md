@@ -19,4 +19,4 @@ pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
 ```
 
 ## 集成Demo
-### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md)
+### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md)
