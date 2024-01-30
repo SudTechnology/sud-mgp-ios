@@ -12,6 +12,12 @@ pod 'SudMGPWrapper', '~> 1.3.6.1'
 ```ruby
 pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
 ```
+
+### 2. Manual Integration: 
+#### Download [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases) 
+#### Download [SudMGPWrapper](https://github.com/SudTechnology/SudMGPWrapper) 
+###### For detailed steps on manual integration, please refer to the [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md). 
+
 ## ASR Speech Recognition Dependency (Optional)
 
 #### Note:
@@ -20,11 +26,6 @@ pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
 ```ruby
 pod 'MicrosoftCognitiveServicesSpeech-iOS', '1.23.0'
 ```
-
-### 2. Manual Integration: 
-#### Download [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases) 
-#### Download [SudMGPWrapper](https://github.com/SudTechnology/SudMGPWrapper) 
-###### For detailed steps on manual integration, please refer to the [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md). 
 
 ## Integration Demo 
 ### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README_en.md)
