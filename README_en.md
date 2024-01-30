@@ -18,9 +18,9 @@ pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
 #### Download [SudMGPWrapper](https://github.com/SudTechnology/SudMGPWrapper) 
 ###### For detailed steps on manual integration, please refer to the [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md). 
 
-## ASR Speech Recognition Dependency (Optional)
+### ASR Speech Recognition Dependency (Optional)
 
-### Note:
+#### Note:
 - Only some games, such as Draw Something, require this library to hit the answer through voice.
 - Please refer to the following pod dependency instructions. Do not refer to other versions.
 ```ruby
