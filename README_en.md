@@ -20,7 +20,7 @@ pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
 
 ## ASR Speech Recognition Dependency (Optional)
 
-#### Note:
+### Note:
 - Only some games, such as Draw Something, require this library to hit the answer through voice.
 - Please refer to the following pod dependency instructions. Do not refer to other versions.
 ```ruby
