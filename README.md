@@ -19,6 +19,13 @@ pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
 #### 下载 [SudMGPWrapper](https://github.com/SudTechnology/SudMGPWrapper)
 ###### 手动集成详细步骤请看 [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md)
 
+## ASR语音识别依赖（可选）
+#### 说明：
+- 只有部分游戏，如你画我猜等需要通过语音命中答案时才需依赖该库
+- 请参照以下pod依赖指令，请勿引用其它版本
+```ruby
+pod 'MicrosoftCognitiveServicesSpeech-iOS', '1.23.0'
+```
 
 ## 集成Demo
 ### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md)

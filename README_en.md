@@ -12,6 +12,15 @@ pod 'SudMGPWrapper', '~> 1.3.6.1'
 ```ruby
 pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
 ```
+## ASR Speech Recognition Dependency (Optional)
+
+#### Note:
+- Only some games, such as Draw Something, require this library to hit the answer through voice.
+- Please refer to the following pod dependency instructions. Do not refer to other versions.
+```ruby
+pod 'MicrosoftCognitiveServicesSpeech-iOS', '1.23.0'
+```
+
 ### 2. Manual Integration: 
 #### Download [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases) 
 #### Download [SudMGPWrapper](https://github.com/SudTechnology/SudMGPWrapper) 
