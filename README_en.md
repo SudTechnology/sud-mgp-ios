@@ -16,7 +16,7 @@ pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
 ### 2. Manual Integration: 
 #### Download [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases) 
 #### Download [SudMGPWrapper](https://github.com/SudTechnology/SudMGPWrapper) 
-###### For detailed steps on manual integration, please refer to the [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/QuickStart/README.md). 
+###### For detailed steps on manual integration, please refer to the [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md). 
 
 ### ASR Speech Recognition Dependency (Optional)
 
