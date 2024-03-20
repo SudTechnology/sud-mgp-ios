@@ -6,11 +6,13 @@ The standard version of the SDK supports all games, while the Lite version of th
 Enter the following dependencies in the  Podfile  file in the project directory: 
 #### Dependency on the Standard Version of SudMGP SDK
 ```ruby
-pod 'SudMGPWrapper', '~> 1.3.6.1'
+pod 'SudMGP', '~> 1.3.7'
+pod 'SudMGPWrapper', '~> 1.3.7'
 ```
 #### Dependency on the Lite Version of SudMGP SDK
 ```ruby
-pod 'SudMGPWrapper_Lite', '~> 1.3.6.1'
+pod 'SudMGP_Lite', '~> 1.3.7'
+pod 'SudMGPWrapper_Lite', '~> 1.3.7'
 ```
 
 ### 2. Manual Integration: 
