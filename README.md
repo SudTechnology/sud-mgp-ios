@@ -9,12 +9,12 @@
 #### 依赖标准版本SudMGP SDK
 ```ruby
 pod 'SudMGP', '~> 1.3.8'
-pod 'SudMGPWrapper', '~> 1.3.7'
+pod 'SudMGPWrapper', '~> 1.3.8'
 ```
 #### 依赖Lite版本SudMGP SDK
 ```ruby
 pod 'SudMGP_Lite', '~> 1.3.8'
-pod 'SudMGPWrapper_Lite', '~> 1.3.7'
+pod 'SudMGPWrapper_Lite', '~> 1.3.8'
 ```
 ### 2. 手动方式集成：
 #### 下载 [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases)
