@@ -8,13 +8,13 @@
 在工程目录中的`Podfile`文件中键入以下依赖项：
 #### 依赖标准版本SudMGP SDK
 ```ruby
-pod 'SudMGP', '~> 1.3.8'
-pod 'SudMGPWrapper', '~> 1.3.8'
+pod 'SudMGP', '~> 1.3.9'
+pod 'SudMGPWrapper', '~> 1.3.9'
 ```
 #### 依赖Lite版本SudMGP SDK
 ```ruby
-pod 'SudMGP_Lite', '~> 1.3.8'
-pod 'SudMGPWrapper_Lite', '~> 1.3.8'
+pod 'SudMGP_Lite', '~> 1.3.9'
+pod 'SudMGPWrapper_Lite', '~> 1.3.9'
 ```
 ### 2. 手动方式集成：
 #### 下载 [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases)
