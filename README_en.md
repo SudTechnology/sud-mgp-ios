@@ -6,13 +6,13 @@ The standard version of the SDK supports all games, while the Lite version of th
 Enter the following dependencies in the  Podfile  file in the project directory: 
 #### Dependency on the Standard Version of SudMGP SDK
 ```ruby
-pod 'SudMGP', '~> 1.4.5'
-pod 'SudMGPWrapper', '~> 1.4.4'
+pod 'SudMGP', '~> 1.4.7'
+pod 'SudMGPWrapper', '~> 1.4.7'
 ```
 #### Dependency on the Lite Version of SudMGP SDK
 ```ruby
-pod 'SudMGP_Lite', '~> 1.4.5'
-pod 'SudMGPWrapper_Lite', '~> 1.4.4'
+pod 'SudMGP_Lite', '~> 1.4.7'
+pod 'SudMGPWrapper_Lite', '~> 1.4.7'
 ```
 
 ### 2. Manual Integration: 
@@ -26,7 +26,7 @@ pod 'SudMGPWrapper_Lite', '~> 1.4.4'
 - Only some games, such as Draw Something, require this library to hit the answer through voice.
 - Please refer to the following pod dependency instructions. Do not refer to other versions.
 ```ruby
-pod 'MicrosoftCognitiveServicesSpeech-iOS', '1.23.0'
+pod 'MicrosoftCognitiveServicesSpeech-iOS', '1.40.0'
 ```
 
 ## Integration Demo 

@@ -8,13 +8,13 @@
 在工程目录中的`Podfile`文件中键入以下依赖项：
 #### 依赖标准版本SudMGP SDK
 ```ruby
-pod 'SudMGP', '~> 1.4.5'
-pod 'SudMGPWrapper', '~> 1.4.4'
+pod 'SudMGP', '~> 1.4.7'
+pod 'SudMGPWrapper', '~> 1.4.7'
 ```
 #### 依赖Lite版本SudMGP SDK
 ```ruby
-pod 'SudMGP_Lite', '~> 1.4.5'
-pod 'SudMGPWrapper_Lite', '~> 1.4.4'
+pod 'SudMGP_Lite', '~> 1.4.7'
+pod 'SudMGPWrapper_Lite', '~> 1.4.7'
 ```
 ### 2. 手动方式集成：
 #### 下载 [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases)
@@ -26,7 +26,7 @@ pod 'SudMGPWrapper_Lite', '~> 1.4.4'
 - 只有部分游戏，如你画我猜等需要通过语音命中答案时才需依赖该库
 - 请参照以下pod依赖指令，请勿引用其它版本
 ```ruby
-pod 'MicrosoftCognitiveServicesSpeech-iOS', '1.23.0'
+pod 'MicrosoftCognitiveServicesSpeech-iOS', '1.40.0'
 ```
 
 ## 集成Demo
