@@ -8,12 +8,12 @@
 在工程目录中的`Podfile`文件中键入以下依赖项：
 #### 依赖标准版本SudMGP SDK
 ```ruby
-pod 'SudMGP', '~> 1.4.8'
+pod 'SudMGP', '~> 1.4.9'
 pod 'SudMGPWrapper'
 ```
 #### 依赖Lite版本SudMGP SDK
 ```ruby
-pod 'SudMGP_Lite', '~> 1.4.8'
+pod 'SudMGP_Lite', '~> 1.4.9'
 pod 'SudMGPWrapper_Lite'
 ```
 ### 2. 手动方式集成：
