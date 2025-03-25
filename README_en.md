@@ -4,16 +4,18 @@ The standard version of the SDK supports all games, while the Lite version of th
 ### 1. Installation via CocoaPods 
  
 Enter the following dependencies in the  Podfile  file in the project directory: 
-#### Dependency on the Standard Version of SudMGP SDK
-```ruby
-pod 'SudMGP', '~> 1.4.9'
-pod 'SudMGPWrapper'
-```
 #### Dependency on the Lite Version of SudMGP SDK
 ```ruby
 pod 'SudMGP_Lite', '~> 1.4.9'
 pod 'SudMGPWrapper_Lite'
 ```
+
+##### Dependency on the Standard Version of SudMGP SDK
+```ruby
+pod 'SudMGP', '~> 1.4.9'
+pod 'SudMGPWrapper'
+```
+
 
 ### 2. Manual Integration: 
 #### Download [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases) 
