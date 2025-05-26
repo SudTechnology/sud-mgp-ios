@@ -1,34 +1,48 @@
 [English](README_en.md)
-## 怎么选择使用哪个版本SDK？
-标准版本SDK支持全部游戏；Lite版本SDK只支持部分游戏. [详细支持游戏列表](https://docs.sud.tech/zh-CN/app/Client/StartUp.html)
+
+## 怎么选择使用哪个版本 SDK？
+
+标准 版本 SDK 更轻量化但极小部分游戏不支持, pro 版本 SDK 支持全部游戏； [详细支持游戏列表](https://docs.sud.tech/zh-CN/app/Client/StartUp.html)
+
 ## 安装方式：
 
-### 1. 通过CocoaPods安装
+### 1. 通过 CocoaPods 安装
 
 在工程目录中的`Podfile`文件中键入以下依赖项：
-#### 依赖Lite版本SudMGP SDK
+
+#### 依赖 标准版本 SudGIP SDK
+
 ```ruby
-pod 'SudMGP_Lite', '~> 1.5.1'
-pod 'SudMGPWrapper_Lite'
+pod 'SudGIP', '~> 1.6.0.1'
+pod 'SudGIPWrapper'
 ```
 
-##### 依赖标准版本SudMGP SDK
+##### 依赖 pro 版本 SudGIP SDK
+
 ```ruby
-pod 'SudMGP', '~> 1.5.1'
-pod 'SudMGPWrapper'
+pod 'SudGIP-pro', '~> 1.6.0.1'
+pod 'SudGIPWrapper-pro'
 ```
+
 ### 2. 手动方式集成：
-#### 下载 [SudMGP](https://github.com/SudTechnology/sud-mgp-ios/releases)
-#### 下载 [SudMGPWrapper](https://github.com/SudTechnology/SudMGPWrapper)
+
+#### 下载 [SudGIP](https://github.com/SudTechnology/sud-mgp-ios/releases)
+
+#### 下载 [SudGIPWrapper](https://github.com/SudTechnology/SudMGPWrapper)
+
 ###### 手动集成详细步骤请看 [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md)
 
-### ASR语音识别依赖（可选）
+### ASR 语音识别依赖（可选）
+
 #### 说明：
+
 - 只有部分游戏，如你画我猜等需要通过语音命中答案时才需依赖该库
-- 请参照以下pod依赖指令，请勿引用其它版本
+- 请参照以下 pod 依赖指令，请勿引用其它版本
+
 ```ruby
-pod 'MicrosoftCognitiveServicesSpeech-iOS', '1.40.0'
+pod 'SudASR'
 ```
 
-## 集成Demo
+## 集成 Demo
+
 ### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md)
