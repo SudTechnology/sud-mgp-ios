@@ -35,7 +35,7 @@ pod 'SudGIPWrapper-pro'
 #### Note:
 
 - This library is only required for certain games, such as "Guess What I Draw," when answers need to be hit through voice.
-- Please refer to the following pod dependency instruction and do not reference other versions.
+- Please refer to the following pod dependency instruction.
 
 ```ruby
 pod 'SudASR'
