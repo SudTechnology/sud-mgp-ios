@@ -13,14 +13,14 @@
 #### 依赖 标准版本 SudGIP SDK
 
 ```ruby
-pod 'SudGIP', '~> 1.6.0.1'
+pod 'SudGIP', '~> 1.6.1'
 pod 'SudGIPWrapper'
 ```
 
 ##### 依赖 pro 版本 SudGIP SDK
 
 ```ruby
-pod 'SudGIP-pro', '~> 1.6.0.1'
+pod 'SudGIP-pro', '~> 1.6.1'
 pod 'SudGIPWrapper-pro'
 ```
 
@@ -32,7 +32,7 @@ pod 'SudGIPWrapper-pro'
 
 ###### 手动集成详细步骤请看 [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md)
 
-### ASR 语音识别依赖（可选）
+### ASR 语音识别依赖（可选，v1.6.0 以上版本）
 
 #### 说明：
 
