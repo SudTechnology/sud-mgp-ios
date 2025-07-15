@@ -13,14 +13,14 @@
 #### 依赖 标准版本 SudGIP SDK
 
 ```ruby
-pod 'SudGIP', '~> 1.6.2'
+pod 'SudGIP', '~> 1.6.3'
 pod 'SudGIPWrapper'
 ```
 
 ##### 依赖 pro 版本 SudGIP SDK
 
 ```ruby
-pod 'SudGIP-pro', '~> 1.6.2'
+pod 'SudGIP-pro', '~> 1.6.3'
 pod 'SudGIPWrapper-pro'
 ```
 
