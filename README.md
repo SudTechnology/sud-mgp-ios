@@ -43,6 +43,10 @@ pod 'SudGIPWrapper-pro'
 pod 'SudASR'
 ```
 
+### 3. 支持系统版本
+
+- iOS 11.0 及以上
+
 ## 集成 Demo
 
 ### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md)

@@ -41,6 +41,10 @@ pod 'SudGIPWrapper-pro'
 pod 'SudASR'
 ```
 
+### 3. Supported System Versions
+
+- iOS 11.0 and above
+
 ## Integration Demo
 
 ### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md)
