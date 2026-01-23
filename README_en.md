@@ -11,14 +11,14 @@ In the `Podfile` file in your project directory, type the following dependencies
 #### Dependency for Standard Version SudGIP SDK
 
 ```ruby
-pod 'SudGIP', '~> 1.6.4'
+pod 'SudGIP', '~> 1.6.6'
 pod 'SudGIPWrapper'
 ```
 
 ##### Dependency for Pro Version SudGIP SDK
 
 ```ruby
-pod 'SudGIP-pro', '~> 1.6.4'
+pod 'SudGIP-pro', '~> 1.6.6'
 pod 'SudGIPWrapper-pro'
 ```
 
