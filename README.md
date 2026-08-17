@@ -53,7 +53,7 @@ pod 'SudASR'
 
 | SDK 版本 | 集成后 IPA 增量大小 |
 | --- | --- |
-| SudGIP 标准版本 | 约 3.5MB |
+| SudGIP 标准版本 | 约 1.5MB |
 | SudGIP-pro 版本 | 约 50MB |
 
 > 说明：以上大小为参考值，实际 IPA 大小可能会受工程配置、编译方式、资源压缩、Bitcode、架构裁剪等因素影响。
