@@ -52,7 +52,7 @@ The approximate IPA size increase after integrating different SDK versions is as
 | SDK Version | IPA Size Increase |
 | --- | --- |
 | SudGIP Standard SDK | About 1.5MB |
-| SudGIP-pro SDK | About 50MB |
+| SudGIP-pro SDK | About 43MB |
 
 > Note: The size above is for reference only. The actual IPA size may vary depending on project configuration, build settings, resource compression, architecture slicing, and other factors.
 
