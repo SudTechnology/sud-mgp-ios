@@ -45,6 +45,17 @@ pod 'SudASR'
 
 - iOS 11.0 and above
 
+### 4. IPA size after SDK integration
+
+The approximate IPA size increase after integrating different SDK versions is as follows:
+
+| SDK Version | IPA Size Increase |
+| --- | --- |
+| SudGIP Standard SDK | About 3.5MB |
+| SudGIP-pro SDK | About 50MB |
+
+> Note: The size above is for reference only. The actual IPA size may vary depending on project configuration, build settings, resource compression, architecture slicing, and other factors.
+
 ## Integration Demo
 
 ### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md)

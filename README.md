@@ -47,6 +47,17 @@ pod 'SudASR'
 
 - iOS 11.0 及以上
 
+### 4. SDK 集成后 IPA 大小情况
+
+不同版本 SDK 集成后对 IPA 包体大小的影响如下：
+
+| SDK 版本 | 集成后 IPA 增量大小 |
+| --- | --- |
+| SudGIP 标准版本 | 约 3.5MB |
+| SudGIP-pro 版本 | 约 50MB |
+
+> 说明：以上大小为参考值，实际 IPA 大小可能会受工程配置、编译方式、资源压缩、Bitcode、架构裁剪等因素影响。
+
 ## 集成 Demo
 
 ### [QuickStart](https://github.com/SudTechnology/hello-sud-plus-ios/blob/master/project/Example/QuickStart/README.md)
