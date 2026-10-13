@@ -40,7 +40,7 @@ pod 'SudGIPWrapper-pro'
 - 请参照以下 pod 依赖指令
 
 ```ruby
-pod 'SudASR'
+pod 'SudASR', "~> 1.6.3"
 ```
 
 ### 3. 支持系统版本

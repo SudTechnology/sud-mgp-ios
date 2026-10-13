@@ -38,7 +38,7 @@ pod 'SudGIPWrapper-pro'
 - Please refer to the following pod dependency instruction.
 
 ```ruby
-pod 'SudASR'
+pod 'SudASR', "~> 1.6.3"
 ```
 
 ### 3. Supported System Versions
